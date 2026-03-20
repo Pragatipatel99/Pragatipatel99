@@ -43,5 +43,5 @@
 
 ## Contact
 
-- LinkedIn: https://linkedin.com/in/pragatip23  
-- Email: your-email@example.com
+- LinkedIn: https://www.linkedin.com/in/pragati-03patel 
+- Email: pragatip224@gmail.com
