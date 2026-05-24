@@ -7,12 +7,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pragatipatel99&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
 ## About Me
 
 - B.Tech IT Student  
@@ -91,12 +85,6 @@
 
 ---
 
-# Portfolio
-
-- Portfolio: https://yourportfolio.com
-
----
-
 # GitHub Statistics
 
 <p align="center">
@@ -160,5 +148,5 @@ Email: pragatip224@gmail.com
 ---
 
 <p align="center">
-  "Code • Learn • Build • Grow"
+  Code • Learn • Build • Grow
 </p>
