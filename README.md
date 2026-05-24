@@ -7,6 +7,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pragatipatel99&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
 ## About Me
 
 - B.Tech IT Student  
@@ -21,16 +27,21 @@
 # Technical Skills
 
 ## Programming Languages
-![Skills](https://skillicons.dev/icons?i=python,c,cpp,java,javascript)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript" />
+</p>
 
 ---
 
 ## Web Development
-![Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,react)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,react" />
+</p>
 
 ---
 
 ## Data Science & Machine Learning
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
@@ -40,12 +51,17 @@
 ---
 
 ## Cloud & DevOps
-![Skills](https://skillicons.dev/icons?i=aws,docker,linux,git,github)
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
+</p>
 
 ---
 
 ## Databases & Big Data
-![Skills](https://skillicons.dev/icons?i=mysql,mongodb)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
 ![Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat&logo=apachehive&logoColor=black)
@@ -55,10 +71,29 @@
 ---
 
 ## Tools & Platforms
-![Skills](https://skillicons.dev/icons?i=vscode,figma,powershell)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,figma,powershell" />
+</p>
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+---
+
+# LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+---
+
+# Portfolio
+
+- Portfolio: https://yourportfolio.com
 
 ---
 
@@ -78,10 +113,26 @@
 
 ---
 
+# Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pragatipatel99&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
 # GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Pragatipatel99&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+# Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
@@ -99,7 +150,9 @@
 # Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/pragati-03patel"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://www.linkedin.com/in/pragati-03patel">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
 </p>
 
 Email: pragatip224@gmail.com
